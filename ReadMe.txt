@@ -16,5 +16,5 @@ Master_Projects/
 │   ├── screenshots/
 │   ├── data/ #pantano_data.csv, LICENSE, .pylintrc, README.md
 │   ├── requirements.txt
-├── Project 2/# process Excel and .docx data, implement functional logic, and analyze living costs.
+├── Another Project/# process Excel and .docx data, implement functional logic, and analyze living costs.
 │   └── data #
