@@ -41,6 +41,3 @@ By automating this classification process, the program demonstrates how **machin
 - `notebook.ipynb` → Main Google Colab notebook  
 - `README.md` → Project description  
 
----
-
-✍️ Author: *Mariel*  
